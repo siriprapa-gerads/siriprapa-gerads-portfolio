@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+    /* min-height: 100vh; */
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+/* for open-close mobile menu icon or hamberger */
+.toggleMobileMenu {
+    top: -100%;
+    padding: 0px;
+}
+
+/* dark-light mode button */
+.btn-mode {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}

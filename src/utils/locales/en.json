@@ -1,0 +1,84 @@
+{
+    "name": "Siriprapa Gerads",
+    "description": {
+        "line1": "Hi! my name is Nia, I have some experience in frontend and backend development",
+        "line2": "My strength is frontend but also interested in backend(currently learning and practicing to expand my skills)",
+        "line3": "I'm adaptable and enjoy learning whether it's new technologies, the tech stack used by the team or collaborate with others",
+        "line4": "although I didn't graduate in Computer Science but I very enjoy coding and would love the opportunity to contribute and grow with your team",
+
+        "line0": "Aspiring to become a Full Stack developer (planning to dive into Back-End in the future)"
+    },
+    "navbar": {
+        "nav1": "About Me",
+        "nav2": "Skill",
+        "nav3": "Experience",
+        "nav4": "Project",
+        "nav5": "Education"
+    },
+    "mode": {
+        "light": "Light Mode",
+        "dark": "Dark Mode"
+    },
+    "experience": {
+        "title": {
+            "resposibility": "Resposibility",
+            "technology": "Technology"
+        },
+        "position": {
+            "frontend" : {
+                "location": "Sertis | Bangkok, Thailand",
+                "date": "Sep 2025 - Dec 2025",
+                "description" : "Developed, maintained, and tested reusable chatbot components for an enterprise-grade Knowledge Management AI platform using React, TypeScript, Storybook, Tailwind Variants, and Style Dictionary  to improving frontend scalability and accelerating delivery of new features.",
+                "resposibility": [
+                    "Collaborated with the UX/UI team to implement or transferred the designs.",
+                    "Developed scalable and reusable UI components using",
+                    "and",
+                    "Documented showcased components to support team-wide adoption with",
+                    "Test components"
+                ]
+            },
+            "backend" : {
+                "location": "Sertis | Bangkok, Thailand",
+                "date": "Jan 2026 - Apr 2026",
+                "description" : "Design and implemented backend APIs for an AI IT Helpdesk solution by integrating Microsoft Graph and ServiceNow to provide account status checks, ticket tracking, and incident/request information through an AI chatbot.",
+                "resposibility": [
+                    "implemented APIs",
+                    "Developed and design card template for retrive data with",
+                    "Developed use cases in",
+                    "Received code reviews from senior developers and get feedbacks to improve",
+                    "Meeting with team and cilent"
+                ],
+                "apis": [
+                    "for orginization ticket management",
+                    "for check account status and permission"
+                ]
+            }
+        }
+    },
+    "projects": {
+        "featureTitle": "features",
+        "campcrag": {
+            "name": "CampCrag",
+            "description": "an e-commerce project that collects camping gear, including outdoor equipment, cooking tools, and pet-related items.",
+            "features": [
+                "category-based navigation bar",
+                "search bar", 
+                "add/remove products from cart",
+                "add-to-cart notification",
+                "calculate total purchase price",
+                "fully responsive design"
+            ]
+        },
+        "pomodoro": {
+            "name": "Pomodoro Timer",
+            "description": "a countdown timer for productivity",
+            "features": [
+                "countdown timer",
+                "session and break mode",
+                "customize session and break durations",
+                "automatic mode switching with notifications when time is up",
+                "start, pause, and reset buttons"
+            ]
+        }
+    }
+}
