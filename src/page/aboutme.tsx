@@ -18,7 +18,7 @@ const AboutPage = ({ id }: aboutProps) => {
           <li>{t("description.line5")}</li>
           <li>{t("description.line6")}</li>
           <li>{t("description.line7")}</li>
-          {/* <li>{t("description.line8")} (˶ᵔ ᵕ ᵔ˶)</li> */}
+          <li>{t("description.line8")} (˶ᵔ ᵕ ᵔ˶)</li>
         </ul>
         <Contact 
           items={[
