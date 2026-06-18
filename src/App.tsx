@@ -37,7 +37,7 @@ function App() {
                   { label: t("navbar.nav1"), path: '/' },
                   { label: t("navbar.nav2"),path: '/skill' },
                   { label: t("navbar.nav3"), path: '/experiance', offset: -74 },
-                  { label: t("navbar.nav4"), path: '/project', offset: -10 }
+                  { label: t("navbar.nav4"), path: '/project' }
                 ]}
               />
           </Sidebar>
