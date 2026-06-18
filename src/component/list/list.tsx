@@ -15,11 +15,11 @@ type listProps = {
 
 const List = ({ title, lists }: listProps) => {
   return (
-    <div className="mt-2">
+    <div className="mt-2 loading-relaxed">
         {title &&
-            <h1 className="font-bold mt-6">{title}</h1>
+            <h1 className="font-bold text-[16px] md:mt-2">{title}</h1>
         }
-        <ul className="list-disc pl-8">
+        <ul className="list-disc md:pl-5 pl-4 text-[14px]">
             {lists.map((list, i) => (
                 <li key={i}>
                     {list.subtitle &&

@@ -83,14 +83,14 @@ const ExperiencePage = ({ id }: experienceProps) => {
               {
                 text: t("experience.position.backend.resposibility.1"),
                 link: {
-                  label: "adaptive-card",
+                  label: "Adaptive-Card",
                   url: "https://adaptivecards.microsoft.com/designer"
                 }
               },
               {
                 text: t("experience.position.backend.resposibility.2"),
                 link: {
-                  label: "bot framework emulator",
+                  label: "Bot Framework Emulator",
                   url: "https://learn.microsoft.com/en-us/azure/bot-service/bot-service-debug-emulator?view=azure-bot-service-4.0&tabs=csharp"
                 }
               },
@@ -125,7 +125,6 @@ const ExperiencePage = ({ id }: experienceProps) => {
             ]} 
           />
         </div>
-
       </Content>
     </Element>
   )

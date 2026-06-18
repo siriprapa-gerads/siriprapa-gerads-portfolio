@@ -5,7 +5,6 @@ import Content from "../component/content/content"
 import Contact from "../component/contact/contact"
 
 
-
 type aboutProps = { id: string }
 
 const AboutPage = ({ id }: aboutProps) => {
@@ -15,11 +14,11 @@ const AboutPage = ({ id }: aboutProps) => {
         title={t("name")}
         subtitle="Frontend Developer"
       >
-        <ul className='list-disc pl-6 mb-6'>
-          <li>{t("description.line1")}</li>
-          <li>{t("description.line2")}</li>
-          <li>{t("description.line3")}</li>
-          <li>{t("description.line4")} (˶ᵔ ᵕ ᵔ˶)</li>
+        <ul className='list-disc mb-6 pl-4'>
+          <li>{t("description.line5")}</li>
+          <li>{t("description.line6")}</li>
+          <li>{t("description.line7")}</li>
+          {/* <li>{t("description.line8")} (˶ᵔ ᵕ ᵔ˶)</li> */}
         </ul>
         <Contact 
           items={[

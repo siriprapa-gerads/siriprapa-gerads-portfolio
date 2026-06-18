@@ -1,18 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@100..900&display=swap');
 @import "tailwindcss";
 
+
 @custom-variant dark (&:where(.dark, .dark *));
+
+* {
+    font-family: "Noto Sans Thai", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
 
 ::-webkit-scrollbar {
   width: 0px;
 }
 
+
 body {
     margin: 0;
     padding: 0;
+
     /* box-sizing: border-box; */
     /* min-height: 100vh; */
-    font-size: 1.25rem;
-    font-weight: 400;
+    /* font-size: 1.25rem; */
+    /* font-weight: 400; */
 }
 
 /* for open-close mobile menu icon or hamberger */

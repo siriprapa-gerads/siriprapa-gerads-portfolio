@@ -1,10 +1,18 @@
 {
     "name": "Siriprapa Gerads",
     "description": {
-        "line1": "Hi! my name is Nia, I have some experience in frontend and backend development",
-        "line2": "My strength is frontend but also interested in backend(currently learning and practicing to expand my skills)",
-        "line3": "I'm adaptable and enjoy learning whether it's new technologies, the tech stack used by the team or collaborate with others",
-        "line4": "although I didn't graduate in Computer Science but I very enjoy coding and would love the opportunity to contribute and grow with your team",
+
+
+        "line1": "Interested in Frontend",
+        "line2": "Interested in Backend (still learning and practicing)",
+        "line3": "",
+        "line4": "",
+
+
+        "line5": "Hi! my name is Nia, I have some experience in frontend and backend development",
+        "line6": "My strength is frontend but also interested in backend(currently learning and practicing to expand my skills)",
+        "line7": "I'm adaptable and enjoy learning whether it's new technologies, the tech stack used by the team or collaborate with others",
+        "line8": "although I didn't graduate in Computer Science but I very enjoy coding and would love the opportunity to contribute and grow ",
 
         "line0": "Aspiring to become a Full Stack developer (planning to dive into Back-End in the future)"
     },
@@ -42,7 +50,7 @@
                 "date": "Jan 2026 - Apr 2026",
                 "description" : "Design and implemented backend APIs for an AI IT Helpdesk solution by integrating Microsoft Graph and ServiceNow to provide account status checks, ticket tracking, and incident/request information through an AI chatbot.",
                 "resposibility": [
-                    "implemented APIs",
+                    "Implemented APIs",
                     "Developed and design card template for retrive data with",
                     "Developed use cases in",
                     "Received code reviews from senior developers and get feedbacks to improve",

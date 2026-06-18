@@ -6,8 +6,10 @@ export const contentVariants = tv({
          flex flex-col justify-center
          break-words
          max-w-[100vw] min-h-[100vh] h-fit`,
-    title: `text-5xl pb-6 font-bold`,
-    subtitle: `text-3xl text-blue-500 dark:text-blue-700 pt-4 font-bold`,
-    content: `md:text-[18px] text-[16px]`
+    title: `md:text-5xl text-4xl pb-6 font-bold`,
+    subtitle: `md:text-3xl text-2xl text-blue-500 dark:text-blue-700 pt-4 font-bold`,
+    content: `text-[14px]`
   }
 });
+
+// content: `md:text-[18px] text-[16px]`
