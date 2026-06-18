@@ -2,7 +2,7 @@ import { Element } from "react-scroll";
 import { t } from "i18next";
 import Content from "../component/content/content"
 import Slider from "../component/slider/slider";
-import all_project from '../assets/all_project.js'
+import all_project from '../assets/all_project'
 
 
 
