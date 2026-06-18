@@ -11,7 +11,7 @@ import Picture from "./assets/profile-pic.jpg"
 import Menu from './component/sidebar/menu/menu';
 import AboutPage from './page/aboutme';
 import SkillPage from './page/skill';
-import ExperiencePage from './page/experiance';
+import ExperiencePage from './page/experience';
 import ProjectPage from './page/project';
 import Button from './component/botton/button'
 
