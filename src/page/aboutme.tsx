@@ -12,7 +12,7 @@ const AboutPage = ({ id }: aboutProps) => {
     <Element name={id}>
       <Content 
         title={t("name")}
-        subtitle="Frontend Developer"
+        subtitle="Software Engineer"
       >
         <ul className='list-disc mb-6 pl-4'>
           <li>{t("description.line5")}</li>
