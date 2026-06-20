@@ -9,7 +9,7 @@ export const cardVariants = tv({
     image: `w-60 mx-auto`,
     description: `md:mt-5 mt-2`,
     list: `list-disc pl-6`,
-    chips: `mt-4 flex flex-wrap gap-2`,
-    chip: `text-sm rounded-md px-2 bg-gray-300 dark:bg-gray-800`,
+    chips: `mt-4 flex flex-wrap gap-1`,
+    chip: `md:text-[12px] text-[8px] rounded-md px-2 bg-gray-300 dark:bg-gray-800`,
   }
 });
