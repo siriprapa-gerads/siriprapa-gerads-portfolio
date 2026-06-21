@@ -1,3 +1,3 @@
 # SIRIPRAPA GERADS
 
-[https://siriprapa-gerads](https://siriprapa-gerads.netlify.app/)
+[https://siriprapagerads](https://siriprapagerads.netlify.app/)
