@@ -17,10 +17,15 @@ const SkillPage = ({ id }: skillProps) => {
               infos: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Python(basic)']
             },{
               title: 'Framework & Library',
-              infos: ['React', 'Tailwind CSS', 'Storybook' ]
+              infos: [ 'React', 'Tailwind CSS', 'Tailwind Varaints', 'Storybook', 'Style dictionary' ]
+
+              // change title to Frontend Development and Backend Development in the future
+              
+              // title: 'Frontend Development',
+              // infos: ['React', 'Tailwind CSS','Tailwind Varaints', 'Storybook', 'Style dictionary' ]
             },{
               title: 'Tool',
-              infos: ['Git', 'GitHub', 'GitLab', 'Style dictionary' ]
+              infos: ['Git', 'GitHub', 'GitLab' ]
             }
           ]} 
         />

@@ -119,8 +119,9 @@ const ExperiencePage = ({ id }: experienceProps) => {
             title={t("experience.title.technology")} 
             lists={[
               { text: "NestJs" },
-              { text: "Postman" },
+              { text: "GraphQL"},
               { text: "Microsoft" },
+              { text: "Postman" },
               { text: "Git&GitLab" },
             ]} 
           />
