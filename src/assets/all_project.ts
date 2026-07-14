@@ -27,7 +27,7 @@ const all_project: Project[] = [
       "projects.campcrag.features.5",
     ],
     technology: ["React", "React Slick", "Tailwind CSS"],
-    link: "https://mysideprojectcampcrag.netlify.app/",
+    link: "https://campcrag.vercel.app/",
     github: "https://github.com/cilinia-gerads/CampCrag",
   },
   {
